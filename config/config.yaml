@@ -108,3 +108,7 @@ platforms:
     name: "雪球"
   - id: "juejin"
     name: "掘金"
+  - id: "sspai"
+    name: "少数派"
+  - id: "producthunt"
+    name: "Product Hunt"
