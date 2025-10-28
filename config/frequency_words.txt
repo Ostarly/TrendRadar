@@ -1,13 +1,3 @@
-
-DeepSeek
-梁文锋
-
-大疆
-DJI
-
-宇树
-王兴兴
-
 股票
 黄金
 港股
@@ -16,33 +6,44 @@ A股
 港交所
 纳斯达克
 纽交所
-
-!车
-!餐
+!保险
+!券商
 
 特斯拉
 马斯克
+!车
+!餐
 
 微软
 Microsoft
++ai
 
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
++GPU
 
 谷歌
 google
 gemini
 deepmind
++ai
 
 chatgpt
 openai
 sora
++ai
 
 claude
 Anthropic
++ai
+
+deepseek
+kimi
+minimax
+qianwen
++ai
 
 iphone
 ipad
@@ -53,18 +54,16 @@ ai
 !gai
 人工智能
 人形机器人
++机器人
 
 有色金属
-
-自动驾驶
-
-机器人
 
 国产
 中国
 国产替代
 十五五
 规划
+新质生产力
 
 美国
 日本
@@ -77,14 +76,9 @@ ai
 因特尔
 AMD
 
-科技
-
 核能
-
 水电站
 雅鲁藏布江
-
-新质生产力
 
 月球
 登月
@@ -106,3 +100,9 @@ AMD
 
 关税
 贸易战
+
+Web3
+区块链
+稳定币
+USDT
+USDC
